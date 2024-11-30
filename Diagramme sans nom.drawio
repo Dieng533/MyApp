@@ -1,9 +1,56 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.0">
   <diagram name="Page-1" id="6R9wycn5xB0XWaJU4vcC">
-    <mxGraphModel>
+    <mxGraphModel dx="1827" dy="1764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="PDnLTym4tugRzWtVXzVA-1" value="&lt;div&gt;Authentification&lt;/div&gt;administrateur&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="260" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="PDnLTym4tugRzWtVXzVA-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=142.5;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="PDnLTym4tugRzWtVXzVA-6" target="PDnLTym4tugRzWtVXzVA-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PDnLTym4tugRzWtVXzVA-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=57.5;exitPerimeter=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="PDnLTym4tugRzWtVXzVA-6" target="PDnLTym4tugRzWtVXzVA-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PDnLTym4tugRzWtVXzVA-6" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="150" y="205" width="141" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="PDnLTym4tugRzWtVXzVA-7" value="API CENTRAL" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="180" y="282.5" width="81" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="PDnLTym4tugRzWtVXzVA-10" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="314.44" as="sourcePoint" />
+            <mxPoint x="30" y="314.44" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PDnLTym4tugRzWtVXzVA-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="PDnLTym4tugRzWtVXzVA-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="310" as="sourcePoint" />
+            <mxPoint x="437" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PDnLTym4tugRzWtVXzVA-23" value="&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;plateforme2 diffusion" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="437" y="205" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="PDnLTym4tugRzWtVXzVA-28" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Administrateur&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="260" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="PDnLTym4tugRzWtVXzVA-31" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.001;entryY=0.679;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="PDnLTym4tugRzWtVXzVA-1" target="PDnLTym4tugRzWtVXzVA-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-150" y="340" as="sourcePoint" />
+            <mxPoint x="-100" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PDnLTym4tugRzWtVXzVA-33" value="&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;plateforme1 diffusion" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="437" y="-10" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="PDnLTym4tugRzWtVXzVA-34" value="&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;plateforme3 diffusion" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="437" y="440" width="200" height="200" as="geometry">
+            <mxRectangle x="437" y="440" width="150" height="210" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
